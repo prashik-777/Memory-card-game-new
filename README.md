@@ -1,6 +1,13 @@
 # Magic Match
 A memory game website where a user at once, only can flip two cards, if they match user continues to match the other cards, else the two cards turn upside down and user has to try his luck on other two cards hoping for them to match.
 
+# New Game
+<img width="1440" alt="Screenshot 2023-03-30 at 9 09 22 AM" src="https://user-images.githubusercontent.com/104124011/228768729-17bdbc18-7ca9-4534-b40d-ce2557dce44c.png">
+
+# Match two
+<img width="1440" alt="Screenshot 2023-03-30 at 9 09 39 AM" src="https://user-images.githubusercontent.com/104124011/228768910-8e2ed06a-c7ca-4226-960f-ad974b201482.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
