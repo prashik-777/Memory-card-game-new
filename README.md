@@ -9,7 +9,7 @@ A memory game website where a user at once, only can flip two cards, if they mat
 
 # Game Completed
 
-<img width="1440" alt="Screenshot 2023-03-30 at 1 27 51 PM" src="https://user-images.githubusercontent.com/104124011/228769472-a3aebda1-e168-4e03-ab81-429db241d3cc.png">
+<img width="1440" alt="Screenshot 2023-03-30 at 1 35 31 PM" src="https://user-images.githubusercontent.com/104124011/228771235-3c3fa84d-70b0-4f91-9722-c76848a58c6a.png">
 
 
 # Getting Started with Create React App
